@@ -11,8 +11,8 @@ The related pages for this task are **RobotArmControllerInterface.html, the css 
    ![image](https://user-images.githubusercontent.com/47666430/122265944-ec28ea80-cee1-11eb-84b1-aa7a231ab41c.png)
 
    Table 2 - play with 2 columns, one for the id and the second is related to the on button.
- The related page for this task is robot_arm.sql.
-![image](https://user-images.githubusercontent.com/47666430/122265990-f945d980-cee1-11eb-9376-4ef1c701f1c6.png)
+   The related page for this task is robot_arm.sql.
+   ![image](https://user-images.githubusercontent.com/47666430/122265990-f945d980-cee1-11eb-9376-4ef1c701f1c6.png)
 </p>
 
 <h2> Subtask 3 - Connect the interface with the database</h2>
