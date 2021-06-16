@@ -8,7 +8,7 @@ The related pages for this task are **RobotArmControllerInterface.html, the css 
 <h2> Subtask 2 - Build a database to control the robot arm </h2>
 <p> The database is called robot_arm and it has 2 tables: 
    Table 1 - robot_arm_controller with 6 columns, each one representing the respective motor and an ID column.
-   ![image](https://user-images.githubusercontent.com/47666430/122265944-ec28ea80-cee1-11eb-84b1-aa7a231ab41c.png)
+   ![image](https://user-images.githubusercontent.com/47666430/122266456-7c672f80-cee2-11eb-969d-da17255450dc.png)
 
    Table 2 - play with 2 columns, one for the id and the second is related to the on button.
    The related page for this task is robot_arm.sql.
