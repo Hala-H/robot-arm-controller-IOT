@@ -1,8 +1,8 @@
 <h1> Task 1 - Robot Arm Controller </h1>
-<p> This task involves 4 subtasks. The main idea is to create an interface to control the arm. </p>
+<p> This task involves 4 subtasks. The main idea is to create an interface to control the arm. The languages used are HTML, CSS, JavaScript, PHP and SQL </p>
 
 <h2> Subtask 1 - Design an interface to control the robot arm </h2>
-<p> The interface contains 6 range sliders, each one represents the servo motor that rotates from 0 to 180 degrees. The slider values are shown on the right of the slider. I used HTML, CSS, and JavaScript to build the page. 
+<p> The interface contains 6 range sliders, each one represents the servo motor that rotates from 0 to 180 degrees. The slider values are shown on the right of the slider. 
 The related pages for this task are **RobotArmControllerInterface.html, the css folder and the js folder.** </p>
 
 <h2> Subtask 2 - Build a database to control the robot arm </h2>
